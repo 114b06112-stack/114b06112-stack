@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**114b06112-stack/114b06112-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm 彭笙睿</h1>
+<h3 align="center">A student from Taiwan university CJCU</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on momo **理貨人員**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **I am fun man**
+
+- 📫 How to reach me **114b06112@mailst.cjcu.edu.tw**
+
+- ⚡ Fun fact **my friend ming is joker so he is my fun fact every day**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ne_l18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ne_l18_" height="30" width="40" /></a>
+</p>
